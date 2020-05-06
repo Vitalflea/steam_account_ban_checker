@@ -1,3 +1,4 @@
 # steam_account_ban_checker
- 
-not complete, but it works.
+
+Half assed. reads username:password from a text file.
+for mass steam account checking
